@@ -46,12 +46,57 @@ The Highly Sophisticated Grading Algorithm
 
 You will be graded on four written assignments, a midterm, a final and some quizzes. Here is the formula that will form the basis for your grade:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Papers | 50% |
-| Midterm Exam | 15% |
-| Final Exam | 25% |
-| Other Stuff Including Section Participation Oral Presentation, and Quizzes | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Other Stuff Including Section Participation Oral Presentation, and Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The Writing Assignments
 -----------------------
